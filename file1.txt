@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Adding file in feature branch
 
+Adding files in feature1 branch
+>>>>>>> feature1
